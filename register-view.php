@@ -79,7 +79,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     </div>
     <!-- copyright -->
     <div class="colorlibcopy-agile">
-        <p>© 2018 Colorlib Signup Form. All rights reserved | Design by <a href="https://colorlib.com/" target="_blank">Colorlib</a></p>
+        <p>© 2018 Colorlib Signup Form. Barcha huquqlar himoyalangan | Design by <a href="https://colorlib.com/" target="_blank">Colorlib</a></p>
     </div>
     <!-- //copyright -->
     <ul class="colorlib-bubbles">

@@ -24,7 +24,6 @@ if ($_POST) {
         }
     }
 
-//    mylog("Error: " . $sql . "<   br>" . mysqli_error($db));
     header('Location: login-view.php?message=Login yoki parol xato.');
     exit();
 }
